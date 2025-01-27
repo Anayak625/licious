@@ -28,7 +28,7 @@ SECRET_KEY = "REDACTED_CREDENTIAL"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*','https://licious-f3k0.onrender.com']
 
 
 # Application definition
